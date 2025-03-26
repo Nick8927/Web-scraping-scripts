@@ -1,0 +1,6 @@
+/venv
+.idea
+news.db
+page_content.html
+weather_info.txt
+currency_rates.md
